@@ -1,0 +1,33 @@
+{
+  "version": "2.4.1",
+  "summary": {
+    "title": "SECDV New Threat Model",
+    "owner": "Alexxanderson",
+    "description": "This is a test Threat Dragon",
+    "id": 0
+  },
+  "detail": {
+    "contributors": [
+      {
+        "name": "justinlim4916@gmail.com"
+      },
+      {
+        "name": "johann_uytanlet@dlsu.edu.ph"
+      }
+    ],
+    "diagrams": [
+      {
+        "id": 0,
+        "title": "New STRIDE diagram",
+        "diagramType": "STRIDE",
+        "placeholder": "New STRIDE diagram description",
+        "thumbnail": "./public/content/images/thumbnail.stride.jpg",
+        "version": "2.4.1",
+        "cells": []
+      }
+    ],
+    "diagramTop": 1,
+    "reviewer": "",
+    "threatTop": 0
+  }
+}
